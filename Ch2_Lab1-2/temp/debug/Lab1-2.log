@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  function_1.cpp
+  function_2.cpp
+  function_3.cpp
+  function_4.cpp
+  function_5.cpp
+c:\users\user\desktop\c_code\ch2_lab1-2\source\function_5.cpp(6): warning C4101: 'temp2': unreferenced local variable
+  Generating Code...
+  Lab1-2.vcxproj -> C:\Users\User\Desktop\c_code\Ch2_Lab1-2\Lab1-2\Lab1-2\..\..\temp\debug\Lab1-2.exe
